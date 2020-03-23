@@ -1,5 +1,6 @@
 # Saúde do Futuro - Covid-2019
 
+Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no comabte à pandemia do Corona Vírus.
 
 ## Dependências
 - [Jekyll](https://jekyllrb.com/docs/installation)

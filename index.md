@@ -1,13 +1,19 @@
-## Saúde do Futuro - COVID-19
+# Saúde do Futuro - COVID-19
 
-Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no comabte à pandemia do Corona Vírus.
+## Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no combate à pandemia do Corona Vírus.
+
+---
 
 ### Quer saber mais?
-#### <img src="images/g1.png" width="4%" height="4%"/> [Brasileira cria rede para imprimir em 3D equipamentos de UTI usados no tratamento contra o coronavírus](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/20/brasileira-cria-rede-para-imprimir-em-3d-equipamentos-de-uti-usados-no-tratamento-contra-o-coronavirus.ghtml)
-<img src="images/thabatha.jpg" width="50%" height="50%"/>
+
+![Thabata](images/thabatha.jpg "Thabata") | ![G1](images/g1.png "G1") | [Brasileira cria rede para imprimir em 3D equipamentos de UTI usados no tratamento contra o coronavírus](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/20/brasileira-cria-rede-para-imprimir-em-3d-equipamentos-de-uti-usados-no-tratamento-contra-o-coronavirus.ghtml "Reportagem") <br> <br> Thabata é engenheira biomédica especialista em próteses de impressão 3D para crianças. Agora ela quer ajudar pacientes de Covid-19 que precisarem de equipamentos hospitalares como respiradores artificiais. <br> <br> [Leia Mais](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/20/brasileira-cria-rede-para-imprimir-em-3d-equipamentos-de-uti-usados-no-tratamento-contra-o-coronavirus.ghtml)
+
+
+---
 
 ### Grupos
-#### <img src="images/telegram.png" width="24" height="24"/> Telegram
+
+#### ![telegram](images/telegram.png) &nbsp; Telegram
 -  [Modelagem](https://t.me/joinchat/LBLmhxklKYs76TRa1hpp5Q)
 -  [Impressão e prototipagem](https://t.me/joinchat/LBLmhxwfhBlw6cDAQPtOWQ)
 -  [Insumos para produção](https://t.me/joinchat/LBLmhx3IVZ-U4xVBiorQzA)
@@ -17,26 +23,21 @@ Projeto focado em buscar os melhores profissionais do Brasil para unificar forç
 -  [Legislação](https://t.me/joinchat/QkdZghsvjF1eCvF2DxvBXg)
 -  [Hospitais e gestores públicos](https://t.me/joinchat/QkdZghfxTnK5XyeL6vu4oA)
 
-#### <img src="images/slack.png" width="24" height="24"/> Slack
-- https://saudedofuturo.slack.com/
+<br>
+
+#### ![slack](images/slack.png) &nbsp; Slack
+- [saudedofuturo.slack.com](https://saudedofuturo.slack.com/)
+
+---
 
 ### Tem conhecimento técnico para ajudar?
 
-
 Preencha o [formulário de inscrição](https://docs.google.com/forms/d/1kO4vSgMaD9xD0hKg7rNoqE9EknlJQUj0Rc2Tj3A9Q4c/viewform?edit_requested=true)
 
+---
 
-### Ideias
+### Idealizadora:
 
-### Créditos
+![Thabata](images/thabatha2.jpg) | @thabataganga <br> <br> ![twitter](images/twitter.png) [Twitter](https://twitter.com/thabataganga) <br> ![linkedin](images/linkedin.png) [Linkedin](https://br.linkedin.com/in/thabataganga) <br> ![instagram](images/instagram.png) [Instagram](https://www.instagram.com/thabataganga/?hl=pt-br) | &nbsp;
 
-#### Idealizadora:
-<img src="images/thabatha2.jpg" width="25%" height="25%"/>
-@thabataganga
-
-<img src="images/twitter.png" width="24" height="24"/> [Twitter](https://twitter.com/thabataganga)
-
-<img src="images/linkedin.jpg" width="24" height="24"/> [Linkedin](https://br.linkedin.com/in/thabataganga)
-
-<img src="images/instagram.jpg" width="24" height="24"/> [Instagram](https://www.instagram.com/thabataganga/?hl=pt-br)
-
+---

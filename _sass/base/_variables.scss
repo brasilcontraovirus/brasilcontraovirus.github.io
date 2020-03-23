@@ -1,0 +1,15 @@
+$grid-gutter-width: 20px;
+$grid-center: 970px;
+
+$color-white: #ffffff;
+$color-dark: #7d8792;
+$color-gray: #f5f6f7;
+$color-primary: #002243;
+
+$link-color: $color-primary;
+$link-hover-color: lighten($color-primary, 20%);
+
+$font-family-header: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif,
+  -apple-system;
+$font-family-base: 'Open Sans', 'Helvetica Neue', Arial, sans-serif,
+-apple-system;

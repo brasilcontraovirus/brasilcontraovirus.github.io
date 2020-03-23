@@ -1,0 +1,51 @@
+
+table {
+  background-color: $color-gray;
+  max-width: 100%;
+  min-width: 28rem;
+
+  @media (max-width: 767px) {
+    min-width: 100%;
+  }
+  
+  tr {
+    @media (max-width: 767px) {
+      max-width: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  td {
+    vertical-align: top;
+    padding: .5rem;
+    min-width: 2rem;
+    max-width: 100%;
+  }
+
+  a[title="Reportagem"] {
+    font-size: 1.5rem;
+  }
+
+  img {
+    @media (max-width: 767px) {
+      max-width: 100% !important;
+    }
+
+    &[alt="Thabata"] {
+      max-width: 250px;
+    }
+
+    &[alt="G1"] {
+      max-width: 2rem;
+      margin-top: .5rem;
+    }
+
+    &[alt="twitter"],
+    &[alt="linkedin"],
+    &[alt="instagram"] {
+      margin-top: .75rem;
+      margin-right: .25rem;
+    }
+  }
+}

@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+
+  *:focus {
+    outline: 0;
+  }
+}
+
+body {
+  font-family: $font-family-base;
+  color: $color-dark;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+a:hover {
+  color: $link-hover-color;
+}
+
+
+hr {
+  margin: 40px 0 60px;
+  opacity: .2;
+}
+
+li {
+  display: block;
+  padding-left: 1rem;
+  margin-bottom: .5rem;
+  position: relative;
+
+  &:after {
+    content: "\2022";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+  }
+}
+
+.container {
+  width: 100%;
+  max-width: $grid-center;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+.container img {
+  max-width: 100%;
+}

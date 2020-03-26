@@ -1,6 +1,6 @@
-# Brasil Contra o Vírus - COVID-19
+![Brasil contra o vírus](images/logo.png "Brasil contra o vírus")
 
-## Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no combate à pandemia do Corona Vírus.
+## Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no combate à  pandemia do Corona Vírus.
 
 ---
 

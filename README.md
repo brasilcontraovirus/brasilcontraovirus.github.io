@@ -3,19 +3,12 @@
 Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no combate à pandemia do Corona Vírus.
 
 ## Dependências
-- [Jekyll](https://jekyllrb.com/docs/installation)
-- [Bundler](https://bundler.io/)
-
-## Como configurar?
-
-```bash
-./scripts/bootstrap   
-```
+- [Docker Compose](https://docs.docker.com/compose/install/)
 
 ## Como rodar?
 
 ```bash
-bundle exec jekyll serve
+docker-compose up
 ```
 
 Depois disso, acesse a aplicação em `http://127.0.0.1:4000`

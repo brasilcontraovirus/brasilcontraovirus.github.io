@@ -1,4 +1,4 @@
-# Saúde do Futuro - COVID-19
+# Brasil Contra o Vírus - COVID-19
 
 ## Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no combate à pandemia do Corona Vírus.
 

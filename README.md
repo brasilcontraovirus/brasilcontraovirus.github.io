@@ -1,6 +1,6 @@
-# Saúde do Futuro - Covid-2019
+# Brasil Contra o Vírus - Covid-2019
 
-Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no comabte à pandemia do Corona Vírus.
+Projeto focado em buscar os melhores profissionais do Brasil para unificar forças no combate à pandemia do Corona Vírus.
 
 ## Dependências
 - [Jekyll](https://jekyllrb.com/docs/installation)

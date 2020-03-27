@@ -87,17 +87,13 @@ Vitor Imafuko
 <br>
 
 T.I.  
-Mateus Franco, Camila Lott e Cintia Ribeiro
+Mateus Franco, Camila Lott, Cintia Ribeiro, Olivia Janequine, Ítalo, Allan Torres, Thiago Fernandes Pereira Leitão, Paulo Alves, Haralan Muceline, Rodrigo Cabral, Alan Cordeiro, Mateus Franco, Marcus André Nunes Castro
 
-<br>
-
-SITE  
-Olivia Janequine e Ítalo
 
 <br>
 
 COMUNICAÇÃO  
-Vinícius M. Costa
+Vinicius M. Costa e Monalisa Gomes da Silva Oliveira
 
 <br>
 
@@ -117,8 +113,7 @@ Eno
 <br>
 
 CONSELHO ACADÊMICO  
-Renato O. M. de Castro, André Luiz Jardini,  
-Maria Elizete Kunkel e Luciana Ferreira
+Renato O. M. de Castro, André Luiz Jardini, Maria Elizete Kunkel e Luciana Ferreira
 
 <br>
 

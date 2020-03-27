@@ -1,8 +1,14 @@
 
 table {
   background-color: $color-gray;
-  max-width: 100%;
+  width: 100%;
   min-width: 28rem;
+  
+  &:last-of-type{
+    td:last-of-type{
+      width: 100%;
+    }
+  }
 
   @media (max-width: 767px) {
     min-width: 100%;
@@ -19,8 +25,6 @@ table {
   td {
     vertical-align: top;
     padding: .5rem;
-    min-width: 2rem;
-    max-width: 100%;
   }
 
   a[title="Reportagem"] {
@@ -31,6 +35,8 @@ table {
     @media (max-width: 767px) {
       max-width: 100% !important;
     }
+
+    width: 350px;
 
     &[alt="Thabata"] {
       max-width: 250px;

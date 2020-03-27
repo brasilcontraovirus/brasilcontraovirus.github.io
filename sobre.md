@@ -59,63 +59,80 @@ Thabata Ganga, André Skortzaru, Rita Wu e Gabriel Radamés
 
 ---
 
-### Equipe
+### Coordenação
 
 IDEALIZADORA  
 Thabata Ganga  
 
+<br>
 
 FINANCEIRO  
 Rita Wu
 
+<br>
 
 INDÚSTRIA  
 André Skortzaru
 
-PROJETISTAS
-Lucas Regadas
-Mario Diniz
-Glen Luiz
+<br>
 
-METODOLOGIA
+PROJETISTAS  
+Lucas Regadas, Mario Diniz e Glen Luiz
+
+<br>
+
+METODOLOGIA  
 Renato Boschilia
 
-IMPRENSA
+<br>
+
+IMPRENSA  
 Vitor Imafuko
 
-T.I.
-Mateus Franco
-Camila Lott
-Cintia Ribeiro
+<br>
 
-SITE
-Olivia Janequine
-Ítalo
+T.I.  
+Mateus Franco, Camila Lott e Cintia Ribeiro
 
-COMUNICAÇÃO
+<br>
+
+SITE  
+Olivia Janequine e Ítalo
+
+<br>
+
+COMUNICAÇÃO  
 Vinícius M. Costa
 
-ORGANIZAÇÃO
+<br>
+
+ORGANIZAÇÃO  
 Gabriel Radamés
 
-JURÍDICO
-Paulo Yuzo
-Danilo Zampronio
+<br>
 
-PESSOAS
+JURÍDICO  
+Paulo Yuzo e Danilo Zampronio
+
+<br>
+
+PESSOAS  
 Eno
 
-CONSELHO ACADÊMICO
-Renato O. M. de Castro
-André Luiz Jardini
-Maria Elizete Kunkel
-Luciana Ferreira
+<br>
 
-ASSESSORIA MÉDICA
-Paulo Shchor
-Renato O. M. de Castro
+CONSELHO ACADÊMICO  
+Renato O. M. de Castro, André Luiz Jardini,  
+Maria Elizete Kunkel e Luciana Ferreira
 
-ASSESSORIA DE LOGÍSTICA
+<br>
+
+ASSESSORIA MÉDICA  
+Paulo Shchor e Renato O. M. de Castro
+
+<br>
+
+ASSESSORIA DE LOGÍSTICA  
 Ten. Elayne Silva
 
 ---

@@ -12,10 +12,10 @@
 
 <br>
 
-![Máscara](images/mascara.jpg "Viseira ou Faceshield") | <br> <br> A peça de fixação é impressa em 3D com ABS ou PETG, o par de elásticos é comum no mercado e a máscara é em não-tecido ou filtro de café. Tempo total de produção: 2 horas. <br> <br> [Saiba mais](/projetos/mascara)
+![Máscara](images/mascara.jpg "Máscara") | <br> <br> A peça de fixação é impressa em 3D com ABS ou PETG, o par de elásticos é comum no mercado e a máscara é em não-tecido ou filtro de café. Tempo total de produção: 2 horas. <br> <br> [Saiba mais](/projetos/mascara)
 
 <br>
 
-![Ventilador Mecânico](images/ventilador.jpg "Viseira ou Faceshield") | <br> <br> Alternativa de baixo custo para esse equipamento crítico. <br> <br> [Saiba mais](/projetos/ventilador)
+![Ventilador Mecânico](images/ventilador.jpg "Ventilador Mecânico") | <br> <br> Alternativa de baixo custo para esse equipamento crítico. <br> <br> [Saiba mais](/projetos/ventilador)
 
 ---

@@ -61,8 +61,7 @@ Thabata Ganga, André Skortzaru, Rita Wu e Gabriel Radamés
 
 ### Equipe
 
-IDEALIZADORA
-Thabata Ganga
+IDEALIZADORA | Thabata Ganga  
 
 FINANCEIRO
 Rita Wu
@@ -115,3 +114,5 @@ Renato O. M. de Castro
 
 ASSESSORIA DE LOGÍSTICA
 Ten. Elayne Silva
+
+---

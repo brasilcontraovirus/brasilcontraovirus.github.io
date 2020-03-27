@@ -61,12 +61,15 @@ Thabata Ganga, André Skortzaru, Rita Wu e Gabriel Radamés
 
 ### Equipe
 
-IDEALIZADORA | Thabata Ganga  
+IDEALIZADORA  
+Thabata Ganga  
 
-FINANCEIRO
+
+FINANCEIRO  
 Rita Wu
 
-INDÚSTRIA
+
+INDÚSTRIA  
 André Skortzaru
 
 PROJETISTAS

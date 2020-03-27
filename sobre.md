@@ -1,7 +1,7 @@
 ![Brasil contra o vírus](images/logo.png "Brasil contra o vírus")
 
 
-## Manifesto Brasil Contra o Vírus
+### Manifesto Brasil Contra o Vírus
 
 _Através do trabalho solidário organizado e colaborativo entre profissionais, acadêmicos, cientistas, empresas, instituições públicas, privadas, ONGs e governo e outras organizações da sociedade, acreditamos que podemos fortalecer o SUS e superar a epidemia de COVID-19 no Brasil e no Mundo._
 
@@ -25,7 +25,12 @@ _Por fim, acreditamos que a união da Ciência e Tecnologia, além do conhecimen
 
 Thabata Ganga, André Skortzaru, Rita Wu e Gabriel Radamés
 
+---
 
+###
+
+
+---
 ---
 
 ### Deu na mídia
@@ -53,7 +58,3 @@ Thabata Ganga, André Skortzaru, Rita Wu e Gabriel Radamés
 - [saudedofuturo.slack.com](https://saudedofuturo.slack.com/)
 
 ---
-
-### Idealizadora:
-
-![Thabata](images/thabatha2.jpg) | @thabataganga <br> <br> ![twitter](images/twitter.png) [Twitter](https://twitter.com/thabataganga) <br> ![linkedin](images/linkedin.png) [Linkedin](https://br.linkedin.com/in/thabataganga) <br> ![instagram](images/instagram.png) [Instagram](https://www.instagram.com/thabataganga/?hl=pt-br) | &nbsp;

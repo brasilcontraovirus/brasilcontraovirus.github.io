@@ -1,7 +1,7 @@
 
 table {
   background-color: $color-gray;
-  width: 100%;
+  max-width: 100%;
   min-width: 28rem;
   
   &:last-of-type{
@@ -25,6 +25,8 @@ table {
   td {
     vertical-align: top;
     padding: .5rem;
+    min-width: 2rem;	
+    max-width: 100%;
   }
 
   a[title="Reportagem"] {

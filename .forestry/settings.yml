@@ -7,7 +7,6 @@ sections:
 - type: document
   path: index.md
   label: Início
-  match: "**/*"
 - type: document
   path: sobre.md
   label: Sobre

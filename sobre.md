@@ -58,3 +58,60 @@ Thabata Ganga, André Skortzaru, Rita Wu e Gabriel Radamés
 - [saudedofuturo.slack.com](https://saudedofuturo.slack.com/)
 
 ---
+
+### Equipe
+
+IDEALIZADORA
+Thabata Ganga
+
+FINANCEIRO
+Rita Wu
+
+INDÚSTRIA
+André Skortzaru
+
+PROJETISTAS
+Lucas Regadas
+Mario Diniz
+Glen Luiz
+
+METODOLOGIA
+Renato Boschilia
+
+IMPRENSA
+Vitor Imafuko
+
+T.I.
+Mateus Franco
+Camila Lott
+Cintia Ribeiro
+
+SITE
+Olivia Janequine
+Ítalo
+
+COMUNICAÇÃO
+Vinícius M. Costa
+
+ORGANIZAÇÃO
+Gabriel Radamés
+
+JURÍDICO
+Paulo Yuzo
+Danilo Zampronio
+
+PESSOAS
+Eno
+
+CONSELHO ACADÊMICO
+Renato O. M. de Castro
+André Luiz Jardini
+Maria Elizete Kunkel
+Luciana Ferreira
+
+ASSESSORIA MÉDICA
+Paulo Shchor
+Renato O. M. de Castro
+
+ASSESSORIA DE LOGÍSTICA
+Ten. Elayne Silva

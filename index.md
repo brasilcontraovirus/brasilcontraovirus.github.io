@@ -8,14 +8,14 @@
 
 ### Projetos
 
-![Viseira](images/viseira.jpg "Viseira ou Faceshield") | <br> <br> A peça de fixação é impressa em 3D com ABS ou PETG, o visor é de folha de acetato e 30 folhas duram aproximadamente 15 dias. O tempo total de produção é 2 horas. <br> <br> [Saiba mais](/projetos/viseira)
+![Viseira](images/viseira.png "Viseira ou Faceshield") | <br> <br> A peça de fixação é impressa em 3D com ABS ou PETG, o visor é de folha de acetato e 30 folhas duram aproximadamente 15 dias. O tempo total de produção é 2 horas. <br> <br> [Saiba mais](/projetos/viseira)
 
 <br>
 
-![Máscara](images/mascara.jpg "Máscara") | <br> <br> A peça de fixação é impressa em 3D com ABS ou PETG, o par de elásticos é comum no mercado e a máscara é em não-tecido ou filtro de café. Tempo total de produção: 2 horas. <br> <br> [Saiba mais](/projetos/mascara)
+![Máscara](images/mascara.png "Máscara") | <br> <br> A peça de fixação é impressa em 3D com ABS ou PETG, o par de elásticos é comum no mercado e a máscara é em não-tecido ou filtro de café. Tempo total de produção: 2 horas. <br> <br> [Saiba mais](/projetos/mascara)
 
 <br>
 
-![Ventilador Mecânico](images/ventilador.jpg "Ventilador Mecânico") | <br> <br> Alternativa de baixo custo para esse equipamento crítico. <br> <br> [Saiba mais](/projetos/ventilador)
+![Ventilador Mecânico](images/ventilador.png "Ventilador Mecânico") | <br> <br> Alternativa de baixo custo para esse equipamento crítico. <br> <br> [Saiba mais](/projetos/ventilador)
 
 ---

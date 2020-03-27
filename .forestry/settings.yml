@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: index.md
+  label: Início
+  match: "**/*"
+- type: document
   path: sobre.md
   label: Sobre
 - type: jekyll-posts

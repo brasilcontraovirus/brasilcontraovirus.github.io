@@ -10,14 +10,16 @@ layout: home
   </head>
 
   <body>
-    <main class="container">
+    <main>
       {% include header.html %}
 
       {% include home/intro.html %}
 
-      {% include projects.html %}
+      <section class="container">
+        {{ content }}
+      </section>
 
-      {{ content }}
+      {% include projects.html %}
 
       {% include footer.html %}
     </main>

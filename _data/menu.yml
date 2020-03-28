@@ -1,0 +1,7 @@
+inicio:
+  title: Ínicio
+  link: "/"
+
+projetos:
+  title: Projects
+  link: "/projetos"

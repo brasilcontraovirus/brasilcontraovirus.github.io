@@ -1,6 +1,3 @@
-![Brasil contra o vírus](images/logo.png "Brasil contra o vírus")
-
-
 ### Manifesto Brasil Contra o Vírus
 
 **Através do trabalho solidário organizado e colaborativo entre profissionais, acadêmicos, cientistas, empresas, instituições públicas, privadas, ONGs e governo e outras organizações da sociedade, acreditamos que podemos fortalecer o SUS e superar a epidemia de COVID-19 no Brasil e no Mundo.**

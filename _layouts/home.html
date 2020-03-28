@@ -1,9 +1,8 @@
 ---
-layout: default
+title: My First Page
+layout: home
 ---
 
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "pt-BR" }}">
   <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,6 +37,10 @@ layout: default
   <body>
     <section class="container">
       {% include header.html %}
+
+      {% include home/intro.html %}
+
+      {% include projects.html %}
 
       {{ content }}
     </section>

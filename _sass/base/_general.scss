@@ -29,7 +29,7 @@ a:hover {
 
 
 hr {
-  margin: 40px 0 60px;
+  margin: 2.5rem 0 3.75rem;
   opacity: .2;
 }
 
@@ -58,4 +58,10 @@ li {
 
 .container img {
   max-width: 100%;
+}
+
+.line-bottom {
+  padding-bottom: 2.5rem;
+  margin-bottom: 3.75rem;;
+  border-bottom: 1px solid $color-border;
 }

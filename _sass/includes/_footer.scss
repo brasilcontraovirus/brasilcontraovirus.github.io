@@ -4,14 +4,26 @@
   justify-content: space-between;
   align-items: center;
 
+  @media (max-width: 767px) {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
   .logo {
     max-width: 160px;
+    margin-bottom: 2rem;
   }
 
   .menu {
     display: flex;
     flex: 1;
     justify-content: flex-end;
+
+    @media (max-width: 767px) {
+      width: 100%;
+      flex-direction: column;
+      justify-content: flex-start;
+    }
 
     .column {
       padding: 0 2rem;

@@ -10,11 +10,20 @@
     background-color: #f5f6f7;
     margin-bottom: 2rem;
 
+    @media (max-width: 767px) {
+      flex-direction: column;
+      min-width: 100%;
+    }
+
     .image {
       width: 100%;
       max-width: 250px;
       height: 250px;
       padding: .5rem;
+
+      @media (max-width: 767px) {
+        max-width: 100%;
+      }
 
       img {
         width: 100%;
@@ -27,7 +36,7 @@
     .infos {
       flex: 1;
       padding: 3rem .5rem;
-      
+
       p {
         margin-bottom: 1rem;
       }

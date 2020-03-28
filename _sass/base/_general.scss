@@ -62,6 +62,12 @@ li {
 
 .line-bottom {
   padding-bottom: 2.5rem;
-  margin-bottom: 3.75rem;;
+  margin-bottom: 3.75rem;
   border-bottom: 1px solid $color-border;
+}
+
+.line-top {
+  padding-top: 2.5rem;
+  margin-top: 3.75rem;
+  border-top: 1px solid $color-border;
 }

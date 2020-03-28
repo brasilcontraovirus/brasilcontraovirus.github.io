@@ -1,0 +1,43 @@
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .logo {
+    max-width: 160px;
+  }
+
+  .menu {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+
+    .column {
+      padding: 0 2rem;
+      min-width: 25%;
+
+      ul {
+        display: flex;
+        flex-direction: column;
+  
+        li {
+          margin-bottom: 1.5rem;
+          
+          &:after {
+            display: none;
+          }
+
+          .link {
+            display: flex;
+            align-items: center;
+
+            .icon {
+              margin-right: .2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}

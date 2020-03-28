@@ -1,7 +1,6 @@
-inicio:
-  title: Ínicio
-  link: "/"
+header:
+  - title: Início
+    url: "/"
 
-projetos:
-  title: Projects
-  link: "/projetos"
+  - title: Projects
+    url: "/projetos"

@@ -6,16 +6,13 @@
   </div>
   <nav class="menu">
     <ul>
-      <li>
-        <a href="{{ site.url }}">
-          Inicio
-        </a>
-      </li>
-      <li>
-        <a href="{{ site.url }}/projetos">
-          Projetos
-        </a>
-      </li>
+      {% for item in site.data.menu.header %}
+        <li>
+          <a href="{{ site.url }}{{ item.url }}">
+            {{ item.title }}
+          </a>
+        </li>
+      {% endfor %}
     </ul>
   </nav>
 </header>

@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .menu {
+    ul {
+      display: flex;
+      justify-content: space-between;
+
+      li {
+        padding: 0 2rem;
+
+        &:after {
+          display: none;
+        }
+      }
+    }
+  }
+}

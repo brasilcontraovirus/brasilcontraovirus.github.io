@@ -29,7 +29,7 @@ a:hover {
 
 
 hr {
-  margin: 40px 0 60px;
+  margin: 2.5rem 0 3.75rem;
   opacity: .2;
 }
 
@@ -54,4 +54,20 @@ li {
   max-width: $grid-center;
   margin: auto;
   padding: 0 1rem;
+}
+
+.container img {
+  max-width: 100%;
+}
+
+.line-bottom {
+  padding-bottom: 2.5rem;
+  margin-bottom: 3.75rem;
+  border-bottom: 1px solid $color-border;
+}
+
+.line-top {
+  padding-top: 2.5rem;
+  margin-top: 3.75rem;
+  border-top: 1px solid $color-border;
 }

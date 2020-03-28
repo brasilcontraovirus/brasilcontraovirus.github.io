@@ -1,0 +1,36 @@
+.projects {
+  width: 100%;
+  margin-bottom: 3.75rem;
+
+  .project {
+    width: 100%;
+    min-width: 28rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f6f7;
+    margin-bottom: 2rem;
+
+    .image {
+      width: 100%;
+      max-width: 300px;
+      height: 300px;
+      padding: .5rem;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+    }
+
+    .infos {
+      flex: 1;
+      padding: 3rem .5rem;
+      
+      p {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}

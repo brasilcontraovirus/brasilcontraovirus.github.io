@@ -12,6 +12,10 @@
       li {
         padding: 0 2rem;
 
+        @media (max-width: 767px) {
+          padding: 0 1rem;
+        }
+
         &:after {
           display: none;
         }

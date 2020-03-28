@@ -3,15 +3,30 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background: #f5f6f7;
 
   @media (max-width: 767px) {
     flex-direction: column;
-    justify-content: flex-start;
   }
 
   .logo {
     max-width: 160px;
     margin-bottom: 2rem;
+
+    @media (max-width: 767px) {
+      max-width: 100%;
+      margin-top: 2rem;
+      width: 100%;
+      flex: 1;
+      display: flex;
+      flex-basis: 100%;
+      justify-content: center;
+      order: 2;
+
+      img {
+        max-width: 160px;
+      }
+    }
   }
 
   .menu {
@@ -20,21 +35,48 @@
     justify-content: flex-end;
 
     @media (max-width: 767px) {
+      order: 1;
       width: 100%;
-      flex-direction: column;
       justify-content: flex-start;
+      flex-wrap: wrap;
+      flex: 1;
     }
 
     .column {
       padding: 0 2rem;
       min-width: 25%;
 
-      ul {
+      @media (max-width: 767px) {
+        padding: 0;
+        flex: 1;
+      }
+
+      &.social {
+        @media (max-width: 767px) {
+          width: 100%;
+          flex: 1 1 auto;
+        }
+
+        .items {
+          @media (max-width: 767px) {
+            flex-direction: row;
+            justify-content: space-between;
+          }
+          
+          .item {
+            @media (max-width: 767px) {
+              flex: 1;
+            }
+          }
+        }
+      }
+
+      .items {
         display: flex;
         flex-direction: column;
   
-        li {
-          margin-bottom: 1.5rem;
+        .item {
+          margin-bottom: 1rem;
           
           &:after {
             display: none;

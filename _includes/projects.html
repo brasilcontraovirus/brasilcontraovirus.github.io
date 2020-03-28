@@ -1,16 +1,21 @@
-<section class="projects">
-  {% for item in site.data.projects %}
-    <div class="project">
-      <div class="image">
-        <img src="images/{{ item.image }}" alt="{{ item.description }}" title="{{ item.description }}" />
+<div class="container">
+  <section class="projects">
+    {% for item in site.data.projects %}
+      <div class="project">
+        <div class="image">
+          <img src="images/{{ item.image }}" alt="{{ item.description }}" title="{{ item.description }}" />
+        </div>
+        <div class="infos">
+          {% if item.title != "" %}
+            <h3>Título</h3>
+          {% endif %}
+          <p>{{ item.description }}</p>
+          <a href="{{ site.url }}/projetos/{{ item.url }}" class="link">
+            Saiba mais
+            <i class="fa fa-angle-right"></i>
+          </a>
+        </div>
       </div>
-      <div class="infos">
-        {% if item.title != "" %}
-          <h3>Título</h3>
-        {% endif %}
-        <p>{{ item.description }}</p>
-        <a href="{{ site.url }}/projetos/{{ item.url }}">Saiba mais</a>
-      </div>
-    </div>
-  {% endfor %}
-</section>
+    {% endfor %}
+  </section>
+</div>

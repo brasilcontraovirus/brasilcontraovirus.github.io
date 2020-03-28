@@ -14,7 +14,7 @@ body {
   color: $color-dark;
   font-size: 1em;
   line-height: 1.5;
-  padding: 1rem;
+  padding: 1rem 0;
 }
 
 a {
@@ -54,6 +54,8 @@ li {
   max-width: $grid-center;
   margin: auto;
   padding: 0 1rem;
+  display: flex;
+  flex-direction: inherit;
 }
 
 .container img {

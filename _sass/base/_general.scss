@@ -64,6 +64,7 @@ li {
 
 .content {
   flex-direction: column;
+  min-height: 60vh;
 }
 
 .line-bottom {
@@ -76,4 +77,11 @@ li {
   padding-top: 2.5rem;
   margin-top: 3.75rem;
   border-top: 1px solid $color-border;
+}
+
+.empty {
+  width: 100%;
+  min-height: 60vh;
+  padding: 5rem 0;
+  text-align: center;
 }

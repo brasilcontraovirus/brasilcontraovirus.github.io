@@ -1,0 +1,28 @@
+---
+layout: project
+---
+
+{% assign content = content | strip_newlines %}
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'pt-BR' }}">
+  {% include head_pages.html %}
+
+  <body>
+    <main>
+      {% include header.html %}
+
+      <section class="container">
+        {% if content != "" %}
+          <div class="content">
+            {{ content }}
+          </div>
+        {% else %}
+          {% include empty.html %}
+        {% endif %}
+      </section>
+
+      {% include footer.html %}
+    </main>
+  </body>
+</html>

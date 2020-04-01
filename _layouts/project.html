@@ -6,23 +6,25 @@ layout: project
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'pt-BR' }}">
-  {% include head_pages.html %}
+  {% include layout/head_pages.html %}
 
   <body>
     <main>
-      {% include header.html %}
+      {% include layout/header.html %}
 
       <section class="container">
-        {% if content != "" %}
-          <div class="content">
-            {{ content }}
-          </div>
-        {% else %}
-          {% include empty.html %}
-        {% endif %}
+        <div class="content">
+          <h1>Título</h1><hr />
+
+          {{ content }}
+
+          {% include slider.html %}
+        </div>
       </section>
 
-      {% include footer.html %}
+      {% include layout/footer.html %}
     </main>
+
+    {% include layout/footer_pages.html %}
   </body>
 </html>

@@ -6,11 +6,11 @@ layout: projects
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'pt-BR' }}">
-  {% include head_pages.html %}
+  {% include layout/head_pages.html %}
 
   <body>
     <main>
-      {% include header.html %}
+      {% include layout/header.html %}
 
       <section class="container">
         {% if content != "" %}
@@ -22,7 +22,9 @@ layout: projects
 
       {% include projects.html %}
 
-      {% include footer.html %}
+      {% include layout/footer.html %}
     </main>
+
+    {% include layout/footer_pages.html %}
   </body>
 </html>

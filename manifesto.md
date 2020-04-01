@@ -7,10 +7,7 @@ layout: default
 ---
 
 **Através do trabalho solidário organizado e colaborativo entre profissionais, acadêmicos, cientistas, empresas, instituições públicas, privadas, ONGs e governo e outras organizações da sociedade, acreditamos que podemos fortalecer o SUS e superar a epidemia de COVID-19 no Brasil e no Mundo.**
----
-layout: default
-permalink: /sobre
----
+
 <br>
 
 **Estamos desenvolvendo tecnologias emergentes, produzindo equipamentos e suprimentos de forma solidária, sem fins lucrativos.**

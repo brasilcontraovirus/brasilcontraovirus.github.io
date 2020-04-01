@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /manifesto
 ---
 
 # Manifesto Brasil Contra o Vírus

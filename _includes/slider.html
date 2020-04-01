@@ -1,0 +1,9 @@
+<div class="slider-wrapper">
+  <div class="slider">
+    {% for item in site.data.projects %}
+      <div>
+        <img src="{{ site.url }}/images/{{ item.image }}" alt="{{ item.description }}" title="{{ item.description }}" />
+      </div>
+    {% endfor %}
+  </div>
+</div>

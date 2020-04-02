@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: projects
 ---
 
 {% assign content = content | strip_newlines %}
@@ -17,11 +17,11 @@ layout: default
           <div class="content">
             {{ content }}
           </div>
-        {% else %}
-          {% include layout/empty.html %}
         {% endif %}
       </section>
-      
+
+      {% include projects.html %}
+
       {% include layout/footer.html %}
     </main>
 

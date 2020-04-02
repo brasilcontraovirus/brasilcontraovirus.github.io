@@ -1,9 +1,6 @@
 ---
-layout: default
+layout: home
 ---
-
-{% assign content = content | strip_newlines %}
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'pt-BR' }}">
   {% include layout/head_pages.html %}
@@ -12,16 +9,14 @@ layout: default
     <main>
       {% include layout/header.html %}
 
+      {% include home/intro.html %}
+
       <section class="container">
-        {% if content != "" %}
-          <div class="content">
-            {{ content }}
-          </div>
-        {% else %}
-          {% include layout/empty.html %}
-        {% endif %}
+        {{ content }}
       </section>
-      
+
+      {% include projects.html %}
+
       {% include layout/footer.html %}
     </main>
 

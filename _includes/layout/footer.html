@@ -1,0 +1,42 @@
+<footer class="footer line-top">
+  <div class="container">
+    <div class="logo">
+      <a href="{{ site.url }}" class="link">
+        <img src="{{ site.url }}/images/logo.png" alt="Brasil contra o vírus" title="Brasil contra o vírus" />
+      </a>
+    </div>
+
+    <nav class="menu">
+      {% for columns in site.data.menu.footer %}
+        <div class="column">
+          <ul class="items">
+            {% for item in columns.items %}
+              <li class="item">
+                <a href="{{ site.url }}{{ item.url }}" class="link">
+                  {{ item.title }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endfor %}
+  
+      <div class="column social">
+        <ul class="items">
+          {% for item in site.data.networks %}
+            <li class="item">
+              <a href="{{ item.url }}" class="link" target="_blank" rel="nofollow">
+                <span class="icon">
+                  {% if item.icon != "" %}
+                    <i class='fab fa-{{ item.icon }} icon'></i>
+                  {% endif %}
+                </span>
+                {{ item.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+  </div>
+</footer>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 ---
 
 {% assign content = content | strip_newlines %}
@@ -13,15 +13,11 @@ layout: default
       {% include layout/header.html %}
 
       <section class="container">
-        {% if content != "" %}
-          <div class="content">
-            {{ content }}
-          </div>
-        {% else %}
-          {% include layout/empty.html %}
-        {% endif %}
+        <div class="content">
+          {{ content }}
+        </div>
       </section>
-      
+
       {% include layout/footer.html %}
     </main>
 

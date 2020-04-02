@@ -1,0 +1,27 @@
+header:
+  - title: Início
+    url: "/"
+
+  - title: Projetos
+    url: "/projetos"
+
+footer:
+  - items:
+    - title: Sobre BRCV
+      url: "/sobre"
+
+    - title: Manifesto
+      url: "/manifesto"
+
+    - title: Pessoas
+      url: "/pessoas"
+
+  - items:
+    - title: Rede
+      url: "/rede"
+
+    - title: Deu na Mídia
+      url: "/midia"
+
+    - title: Canais
+      url: "/canais"

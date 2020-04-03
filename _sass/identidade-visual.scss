@@ -1,0 +1,392 @@
+$font-title: Bold 16px Nunito;
+$font-default: 16px Nunito Sans;
+$subtitle: Italic 14px Nunito Sans;
+
+@mixin colors-table($colorOne, $colorTwo) {
+  background: transparent linear-gradient(177deg, $colorOne 0%, $colorTwo 100%)
+    0% 0% no-repeat padding-box;
+}
+
+.id {
+  color: #000000;
+  padding: 0;
+  text-align: center;
+  width: 720px;
+
+  p { 
+    text-align: left;
+
+    &:nth-of-type(1) { //identidade visual - brasil contra o virus
+      font-size: 20px;
+      margin-top: 42px;
+    }
+
+    &:nth-of-type(2) { //texto após "identidade visual..."
+      margin-bottom: 59px;
+      margin-top: 19px;
+    }
+  }
+
+  hr {
+    margin: 62px 0;
+  }
+
+  table{
+    background-color: #fff;
+    border-collapse: separate;
+    border-spacing: 16px;
+    width: 100%;
+
+    td{
+      padding: 0;
+      vertical-align: middle;
+    }
+  }
+
+  .title-logo { 
+    margin: 0;
+
+    img {
+      height: 69px;
+      width: 195px;
+    }
+  }
+
+  .title {
+    font: $font-title;
+    margin-bottom: 6px;
+  }
+
+  .text {
+    font: $font-default;
+  }
+
+  .subtitle {
+    font: $subtitle;
+  }
+
+  .table-imgs-big { 
+    margin-bottom: 48px;
+
+    tr {
+      &:nth-of-type(1) { //imagens
+        td {
+          height: 168px;
+          width: 352px;
+        }
+
+        td:nth-of-type(1) { //imagens com fundo branco
+          box-shadow: 0px 0px 4px #00000029;
+        }
+
+        td:nth-of-type(2) { //imagens com fundo preto
+          background-color: #000000;
+        }
+      }
+
+      &:nth-of-type(2) { //legenda da imagem
+        text-align: left;
+        font: $subtitle;
+      }
+
+      td {
+        img {
+          width: 284px;
+          height: 102px;
+        }
+      }
+    }
+  }
+
+  .table-imgs-tiny { 
+    td {
+      height: 80px;
+      width: 168px;
+
+      &:nth-of-type(1),
+      &:nth-of-type(3) { //imagens com fundo branco
+        box-shadow: 0px 0px 4px #00000029;
+      }
+
+      &:nth-of-type(2),
+      &:nth-of-type(4) { //imagens com fundo preto
+        background-color: #000000;
+      }
+
+      img {
+        height: 48px;
+        width: 136px;
+      }
+    }
+  }
+
+  .button-download-imgs {
+    align-items: center;
+    background: #002243 0% 0% no-repeat padding-box;
+    border-radius: 60px;
+    box-shadow: 0px 2px 6px #00000029;
+    display: flex;
+    height: 64px;
+    justify-content: center;
+    margin-top: 61px;
+    width: 100%;
+
+    a {
+      color: #ffffff;
+      font: Bold 20px Nunito Sans;
+    }
+  }
+
+  .table-colors { 
+    border-spacing: 16px 0px;
+
+    tr {
+      &:nth-of-type(1) { //caixa de cor
+        td {
+          width: 168px;
+          height: 84px;
+        }
+      }
+
+      &:nth-of-type(2) {//caixa do hexadecimal da cor
+        td {
+          width: 168px;
+          height: 20px;
+          box-shadow: 0px 3px 6px #00000029;
+          padding: 10px;
+          font: $font-default;
+          font-size: 14px;
+        }
+      }
+    }
+  }
+
+  .table-colors-row-1 {
+    margin: 26px 0px;
+    tr:nth-of-type(1) { //aplicação da cor
+      td:nth-of-type(1) {
+        @include colors-table(#c80707, #a00707);
+      }
+
+      td:nth-of-type(2) {
+        @include colors-table(#ff8d1d, #ff5a1d);
+      }
+
+      td:nth-of-type(3) {
+        @include colors-table(#eee600, #fbac00);
+      }
+
+      td:nth-of-type(4) {
+        @include colors-table(#45bb8d, #45998d);
+      }
+    }
+    
+    tr:nth-of-type(2) { //hexadecimal da cor
+      td:nth-of-type(1) {
+        color: #A00707;
+      }
+
+      td:nth-of-type(2) {
+        color: #FF5A1D;
+      }
+
+      td:nth-of-type(3) {
+        color: #FBAC00
+      }
+
+      td:nth-of-type(4) {
+        color: #45998D;
+      }
+    }
+  }
+
+  .table-colors-row-2 {
+    margin-bottom: 26px;
+    tr:nth-of-type(1) { //aplicação da cor
+      td:nth-of-type(1) {
+        @include colors-table(#00d2eb, #0092eb);
+      }
+
+      td:nth-of-type(2) {
+        @include colors-table(#064bd8, #062bb3);
+      }
+
+      td:nth-of-type(3) {
+        @include colors-table(#840bff, #5d0be1);
+      }
+
+      td:nth-of-type(4) {
+        @include colors-table(#f877fd, #cb4dc9);
+      }
+    }
+
+    tr:nth-of-type(2) { //hexadecimal da cor
+      td:nth-of-type(1) {
+        color: #0092EB;
+      }
+
+      td:nth-of-type(2) {
+        color: #062BB3;
+      }
+
+      td:nth-of-type(3) {
+        color: #5D0BE1;
+      }
+
+      td:nth-of-type(4) {
+        color: #CB4DC9;
+      }
+    }
+  }
+
+  .table-colors-row-3 {
+    margin-bottom: 26px;
+    tr:nth-of-type(1) { //aplicação da cor
+      td:nth-of-type(1) {
+        @include colors-table(#fdd0b0, #e3b06f);
+      }
+
+      td:nth-of-type(2) {
+        @include colors-table(#96564a, #482110);
+      }
+
+      td:nth-of-type(3) {
+        @include colors-table(#c78054, #96564a);
+      }
+
+      td:nth-of-type(4) {
+        @include colors-table(#a56945, #784100);
+      }
+    }
+
+    tr:nth-of-type(2) { //hexadecimal da cor
+      td:nth-of-type(1) {
+        color: #E3B06F;
+      }
+
+      td:nth-of-type(2) {
+        color: #482110;
+      }
+
+      td:nth-of-type(3) {
+        color: #96564A;
+      }
+
+      td:nth-of-type(4) {
+        color: #784100;
+      }
+    }
+  }
+
+  .table-colors-row-4 {
+    margin-bottom: 26px;
+    tr:nth-of-type(1) { //aplicação da cor
+      td:nth-of-type(1) {
+        @include colors-table(#fdd0b0, #d69374);
+      }
+
+      td:nth-of-type(2) {
+        @include colors-table(#d69c6d, #c6836d);
+      }
+
+      td:nth-of-type(3) {
+        @include colors-table(#fdece5, #f4ce99);
+      }
+
+      td:nth-of-type(4) {
+        @include colors-table(#fdd0b0, #e7a788);
+      }
+    }
+
+    tr:nth-of-type(2) { //hexadecimaal da cor
+      td:nth-of-type(1) {
+        color: #D69374;
+      }
+
+      td:nth-of-type(2) {
+        color: #C6836D;
+      }
+
+      td:nth-of-type(3) {
+        color: #F4CE99;
+      }
+
+      td:nth-of-type(4) {
+        color: #E7A788;
+      }
+    }
+  }
+
+  .table-colors-row-5 {
+    tr:nth-of-type(1) { //aplicação da cor
+      td:nth-of-type(1) {
+        @include colors-table(#bababa, #999999);
+      }
+
+      td:nth-of-type(2) {
+        @include colors-table(#757575, #3e3e3e);
+      }
+
+      td:nth-of-type(3) {
+        background-color: #000;
+      }
+
+      td:nth-of-type(4) {
+        background-color: #fff;
+      }
+    }
+
+    tr:nth-of-type(2) {//hexadecimal da cor
+      td:nth-of-type(1) {
+        color: #999999;
+      }
+
+      td:nth-of-type(2) {
+        color: #3E3E3E;
+      }
+
+      td:nth-of-type(3) {
+        color: #000;
+      }
+
+      td:nth-of-type(4) {
+        color: #000;
+      }
+    }
+  }
+
+  .table-fonts-example {
+    margin-top: 32px;
+
+    tr {
+      td { //imagem da aplicacao da fonte
+        height: 176px;
+        width: 352px;
+
+        img{
+          height: 100%;
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .table-fonts-download {
+    margin-top: 24px;
+
+    tr {
+      td { //botões de download
+        background: #002243 0% 0% no-repeat padding-box;
+        border-radius: 60px;
+        box-shadow: 0px 2px 6px #00000029;
+        height: 64px;
+        width: 352px;
+
+        a {
+          color: #fff;
+          font: Bold 20px Nunito Sans;
+        }
+      }
+    }
+  }
+}
